@@ -1,0 +1,14 @@
+{
+  "name": "generators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sprite_generate": "svg-sprite-generate -d air-icons/ -o sprites/map_sprites.svg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svg-sprite-generator": "^0.0.7"
+  }
+}
